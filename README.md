@@ -5,7 +5,7 @@ I design and build production-grade data platforms that transform raw data into 
 
 ---
 
-## 🧠 Engineering Philosophy
+##  Engineering Philosophy
 
 Data engineering is not just about moving data.  
 It is about building systems that are predictable, observable, and scalable under real-world constraints.
@@ -41,7 +41,7 @@ I focus on:
 
 ---
 
-## 🛠 Technical Environment
+##  Technical Environment
 
 Python | SQL | Apache Spark | Databricks | Airflow  
 Snowflake | PostgreSQL | Redshift | BigQuery  
@@ -50,7 +50,7 @@ Kafka | Docker | Linux | Git
 
 ---
 
-## 📌 Selected Work
+##  Selected Work
 
 🔹 End-to-End Ecommerce Data Pipeline  
 Scalable ingestion and transformation pipeline with orchestration and warehouse modeling.
@@ -63,7 +63,7 @@ Structured query pattern reference for warehouse optimization and data modeling.
 
 ---
 
-## 📈 Continuous Improvement
+##  Continuous Improvement
 
 Currently exploring:
 
